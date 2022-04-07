@@ -18,7 +18,7 @@ function Cards() {
             />
             <CardItem
               alt="priscila's projects"
-              src="images/windows.jpg"
+              src="./portfolio/images/windows.jpg"
               text="A selection of UX/UI projects for luxury fashion & beauty clients, from responsive site designs to eCommerce products and campaign creative."
               label="Projects"
               path="/projects"
